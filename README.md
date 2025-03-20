@@ -4,7 +4,10 @@
 
 #
 
-  <img src="https://raw.githubusercontent.com/amirnmz/amirnmz/main/image.gif" width="500"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/amirnmz/amirnmz/main/work-computer.gif" width="300"/>
+</p>
+
 
  # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
