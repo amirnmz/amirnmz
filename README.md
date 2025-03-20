@@ -1,8 +1,8 @@
 ### Hi there 👋
 
  I'm Amir Namatzadeh, a budding web developer diving into the world of coding. I'm currently learning and striving to improve my skills in web development. My passion lies in creating better user experiences through modern languages and frameworks. I'm also keen on connecting with new collaborators and learning from their experiences.
-<img src="https://raw.githubusercontent.com/amirnmz/amirnmz/main/work.computer.gif" width="300"/>
 
+(https://raw.githubusercontent.com/amirnmz/amirnmz/main/work.computer.gif)
 
 
  # 💻 Tech Stack:
